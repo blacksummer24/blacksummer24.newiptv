@@ -453,3 +453,21 @@ http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/A4GMBN6.png" group-title="",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
+#EXTINF:-1,IND_Ten Sports
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/223
+
+#EXTINF:-1,IND_STAR GOLD SELECT HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/515
+
+#EXTINF:-1,IND_Star Plus HD (IND)-VIP
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/634
+
+#EXTINF:-1,IND_Star Plus HD (UK)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/214
+
+#EXTINF:-1,IND_Star Sports 2 HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/220
+
+#EXTINF:-1,IND_Star Sports 3 HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/221
+
