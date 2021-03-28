@@ -522,5 +522,70 @@ http://45.126.83.51/uq2663/h/h07/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",THRILL
 http://45.126.83.51/qwr9ew/s/s34/index2.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",HBO Plus HD
-http://maxptv.net:8080/live/morgana/morgana/128.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://i.imgur.com/b27Bk9b.png" group-title="",Real Madrid TV HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?xtreamiptv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Adventure Sports
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",ESPN 2
+https://gma2.blab.email/espn2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/gDTpg4B.jpg" group-title="",US | TVS Select Network
+https://nrpus.bozztv.com/36bay2/gusa-tvsselect/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/37OGfa3.jpg" group-title="",US | TVS Mainstreet
+https://nrpus.bozztv.com/36bay2/gusa-tvsmainst/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/ui099xQ.jpg" group-title="",US | TVS Classic Sports
+https://nrpus.bozztv.com/36bay2/gusa-tvs/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/sal5CkX.jpg" group-title="",US | TVS Boxing
+https://nrpus.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/RMewTGr.jpg" group-title="",US | TVS Turbo
+https://nrpus.bozztv.com/36bay2/gusa-tvsturbo/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/5UjqDht.jpg" group-title="",US | TVS Tavern
+https://nrpus.bozztv.com/36bay2/gusa-tavern/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/OFO86K5.jpg" group-title="",US | TVS Sports
+https://nrpus.bozztv.com/36bay2/gusa-tvssports/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/jQdBjyx.jpg" group-title="",US | TVS Women Sports
+https://nrpus.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/VLWDHGs.png" group-title="",US | TVS Classic Movies
+https://nrpus.bozztv.com/36bay2/gusa-tvsclassicmovies/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/RhKSIGQ.jpg" group-title="",US | TVS Drive In Movie
+https://nrpus.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/I6pSh1y.jpg" group-title="",US | TVS Hollywood History
+https://nrpus.bozztv.com/36bay2/gusa-tvshollywoohistory/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/uNQeGHw.jpg" group-title="",US | TVS Horror Network
+https://nrpus.bozztv.com/36bay2/gusa-tvshorror/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/5Ygj2DL.jpg" group-title="",US | TVS Nostalgia Movies
+https://nrpus.bozztv.com/36bay2/gusa-tvsNostalgiaMovies/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/UsgbmfF.png" group-title="",US | TVS Western Movie
+https://nrpus.bozztv.com/36bay2/gusa-tvswesternmovies/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/lHvWCyV.jpg" group-title="",US | TVS Comedy Network
+https://nrpus.bozztv.com/36bay2/gusa-tvscomedy/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/t0ly2m8.jpg" group-title="",US | TVS Tally Ho
+https://nrpus.bozztv.com/36bay2/gusa-tvstallyho/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/Bgqy4fL.jpg" group-title="",US | TVS Travel Network
+https://nrpus.bozztv.com/36bay2/gusa-tvstravel/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/iuQyJ7f.jpg" group-title="",US | TVS Family Channel
+https://nrpus.bozztv.com/36bay2/gusa-TVSFamilyChannel/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/ogvLLji.png" group-title="",US | Sent TV Global Network
+https://nrpus.bozztv.com/36bay2/gusa-stgn/index.m3u8
+
+
