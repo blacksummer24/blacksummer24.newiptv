@@ -509,3 +509,10 @@ http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/rEKsf20.jpg" group-title="",Prime Canada TV
 http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://albepg.com/tvlogi/Sky%20Comedy.png" group-title="",Sky Comedy
+http://ott.artmott.com/SKYCOMEDY/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://albepg.com/tvlogi/Sky%20Shkenca.png" group-title="",Sky Max
+http://ott.artmott.com/SKYMAX/tracks-v1a1/mono.m3u8
+
