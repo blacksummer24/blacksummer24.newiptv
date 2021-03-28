@@ -21,7 +21,7 @@ http://103.11.112.28:1935/live2/smil:onesports.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/GMA.svg/revision/latest/scale-to-width-down/2000?cb=20200814145443" group-title="Local",GMA 
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/99.m3u8 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/GMAPinoyTVvector05.png/revision/latest/scale-to-width-down/2000?cb=20200901093722" group-title="Local",GMA Pinoy TV #EXTVLCOPT:http-user-agent=stream 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/GMAPinoyTVvector05.png/revision/latest/scale-to-width-down/2000?cb=20200901093722" group-title="Local",GMA Pinoy TV
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/cd1b220644affbb.m3u8 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/JTV2015.svg/revision/latest/scale-to-width-down/2000?cb=20160824071938" group-title="Local",Jeepney TV 
@@ -30,7 +30,7 @@ http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/106.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jgky5WK/New-Project.png" group-title="Local",DepEd TV 
 http://59c3ec70cfde0.streamlock.net/channel_7/channel7/chunklist.m3u8 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kBQSvsJ/IMG-20201226-104652.png" group-title="Local",Knowledge Channel #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=hls #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla&Referrer=https%3A%2F%2Ftfc.tv%2F&X-Forwarded-For=175.176.0.236 #EXTVLCOPT:http-referrer=https://tfc.tv/ #EXTVLCOPT:http-user-agent=Mozilla 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kBQSvsJ/IMG-20201226-104652.png" group-title="Local",Knowledge Channel
 https://amdottlive.akamaized.net/hls/live/2018990/iwantknowledge/master480p.m3u8 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/SOLARLEARNING.png/revision/latest/scale-to-width-down/2000?cb=20200815083543" group-title="Local",Solar Learning 
@@ -126,10 +126,10 @@ http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/126.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YD7Lmvs/Disney-Junior-2019.png" group-title="Kids",Disney Junior 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/513 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/31/Nick_2009.svg/revision/latest/scale-to-width-down/2000?cb=20200621143348" group-title="Kids",Nickelodeon #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=hls #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=User%20Agent%2F26.0%20(Linux%3BAndroid%205.1.1)%20ExoPlayerLib%2F2.4.0 #EXTVLCOPT:http-user-agent=User Agent/26.0 (Linux;Android 5.1.1) ExoPlayerLib/2.4.0 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/31/Nick_2009.svg/revision/latest/scale-to-width-down/2000?cb=20200621143348" group-title="Kids",Nickelodeon
 https://indotv.tech/m3u8sd/usee-nickelodeon-indonesia.m3u8 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jV9yP4n/Pics-Art-10-31-08-15-45.png" group-title="Kids",Cartoon Network HD #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=hls #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=User%20Agent%2F26.0%20(Linux%3BAndroid%205.1.1)%20ExoPlayerLib%2F2.4.0 #EXTVLCOPT:http-user-agent=User Agent/26.0 (Linux;Android 5.1.1) ExoPlayerLib/2.4.0 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jV9yP4n/Pics-Art-10-31-08-15-45.png" group-title="Kids",Cartoon Network HD
 https://indotv.tech/m3u8sd/usee-cartoonnetwork-indonesia.m3u8 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/PBS_Kids_Dash_(2009).svg/revision/latest/scale-to-width-down/2000?cb=20171125102412" group-title="Kids",PBS Kids 
@@ -315,7 +315,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/53b93bc93a361a2
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Zee_Cinema_2017.svg/revision/latest/scale-to-width-down/2000?cb=20191222192752" group-title="Movies",Zee Cinema 
 https://y5w8j4a9.ssl.hwcdn.net/cinemausa/tracks-v1a1/index.m3u8 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r0FdsDB/Paramount-Network-II.png" group-title="Movies",Paramount Network #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=hls #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A81.0)%20Gecko%2F20100101%20Firefox%2F81.0 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r0FdsDB/Paramount-Network-II.png" group-title="Movies",Paramount Network
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8 
 
 #EXTINF:-1 tvg-id="fox.movies.vn" tvg-logo="https://www.foxmoviesasia.com/images/fm.png" group-title="Movies",FOX Movies 
@@ -327,10 +327,10 @@ http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/113.m3u8 #https:/
 #EXTINF:-1 tvg-id="Hbh.Asia" tvg-logo="https://i.ibb.co/hcqXyL5/HBO-HiTS.png" group-title="Movies",HBO Hits #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=hls 
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8 
 
-#EXTINF:-1 tvg-id="Hbf.Asia" tvg-logo="https://i.ibb.co/7rVLTHd/HBO-Family-Asia.png" group-title="Movies",HBO Family #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=hls 
+#EXTINF:-1 tvg-id="Hbf.Asia" tvg-logo="https://i.ibb.co/7rVLTHd/HBO-Family-Asia.png" group-title="Movies",HBO Family
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8 
 
-#EXTINF:-1 tvg-id="Hbs.Asia" tvg-logo="https://i.ibb.co/nPV5sNk/HBO-Signature-Asia.png" group-title="Movies",HBO Signature #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=hls 
+#EXTINF:-1 tvg-id="Hbs.Asia" tvg-logo="https://i.ibb.co/nPV5sNk/HBO-Signature-Asia.png" group-title="Movies",HBO Signature
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8 
 
 #EXTINF:-1 tvg-id="Red.Asia" tvg-logo="https://i.ibb.co/tqGWgHz/Png-Item-340456.png" group-title="Movies",Red by HBO #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=hls 
