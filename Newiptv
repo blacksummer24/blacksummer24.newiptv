@@ -522,9 +522,6 @@ http://45.126.83.51/uq2663/h/h07/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",THRILL
 http://45.126.83.51/qwr9ew/s/s34/index2.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://i.imgur.com/b27Bk9b.png" group-title="",Real Madrid TV HD
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?xtreamiptv.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Adventure Sports
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
 
@@ -587,5 +584,9 @@ https://nrpus.bozztv.com/36bay2/gusa-TVSFamilyChannel/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/ogvLLji.png" group-title="",US | Sent TV Global Network
 https://nrpus.bozztv.com/36bay2/gusa-stgn/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/SAfy1us.png" group-title="",US | STIRR Movies
+https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
+
 
 
