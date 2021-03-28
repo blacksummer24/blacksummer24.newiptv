@@ -9,6 +9,9 @@ http://devimages.apple.com/iphone/samples/bipbop/bipbopall.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Kapamilya_Channel_logo.svg/revision/latest/scale-to-width-down/2000?cb=20200819050409" group-title="Local",Kapamilya Channel 
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/100.m3u8 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/unvgWUw.png" group-title="",TFC
+https://bit.ly/3ainBEl
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/PTVStackedalt.svg/revision/latest/scale-to-width-down/2000?cb=20200807092847" group-title="Local",PTV 
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/101.m3u8 
 
@@ -22,7 +25,7 @@ http://103.11.112.28:1935/live2/smil:onesports.smil/playlist.m3u8
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/99.m3u8 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/GMAPinoyTVvector05.png/revision/latest/scale-to-width-down/2000?cb=20200901093722" group-title="Local",GMA Pinoy TV
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/cd1b220644affbb.m3u8 
+http://164.40.161.43:10011
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/JTV2015.svg/revision/latest/scale-to-width-down/2000?cb=20160824071938" group-title="Local",Jeepney TV 
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/106.m3u8 
