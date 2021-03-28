@@ -510,9 +510,15 @@ http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/rEKsf20.jpg" group-title="",Prime Canada TV
 http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://albepg.com/tvlogi/Sky%20Comedy.png" group-title="",Sky Comedy
-http://ott.artmott.com/SKYCOMEDY/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",CINEMA WORLD
+http://45.126.83.51/uq2663/h/h04/index2.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://albepg.com/tvlogi/Sky%20Shkenca.png" group-title="",Sky Max
-http://ott.artmott.com/SKYMAX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",HITS
+http://45.126.83.51/uq2663/h/h37/01.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",KIX
+http://45.126.83.51/uq2663/h/h07/01.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",THRILL
+http://45.126.83.51/qwr9ew/s/s34/index2.m3u8
 
