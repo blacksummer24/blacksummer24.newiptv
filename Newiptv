@@ -141,6 +141,12 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/Tvokids-static-logo.svg/revision/latest/scale-to-width-down/2000?cb=20180612171506" group-title="Kids",TVO Kids 
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8 
 
+#EXTINF:-1 tvg-id="" tvg-name="KET PBS Kids" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="USA",KET PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-id="" tvg-name="Kidoodle" tvg-logo="https://i.imgur.com/MaFtbM5.png" group-title="USA",Kidoodle
+https://kidoodletv-kdtv-1.samsung.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wgykTXf/image.png" group-title="Educational",Discovery 
 https://indotv.tech/m3u8sd/usee-disco-indonesia.m3u8 
 
@@ -309,6 +315,15 @@ https://y5w8j4a9.ssl.hwcdn.net/ztvhdusa/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YWYSFWJ/ezgif-com-gif-maker-removebg-preview.png" group-title="Entertainment",Zee World 
 https://y5w8j4a9.ssl.hwcdn.net/world/tracks-v1a1/index.m3u8 
 
+#EXTINF:-1 tvg-id="" tvg-name="Moviesphere Free" tvg-logo="https://i.imgur.com/DTXQ3Pc.png" group-title="USA",Moviesphere Free
+https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="My time Movies Network" tvg-logo="https://i.imgur.com/SQInLji.png" group-title="USA",My time Movies Network
+https://mytime-tcl.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Ion Plus" tvg-logo="https://i.imgur.com/d449jnv.png" group-title="USA",Ion Plus
+https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BK5wXjd/And-Flix-1.png" group-title="Movies",&Flix HD 
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8 
 
@@ -372,8 +387,11 @@ https://edge.roku-live.top.comcast.net/out/u/epix-east.m3u8
 #EXTINF:-1 tvg-ID="EPIE2" tvg-name="Epix 2" tvg-logo="https://content.epix.com/logos/epix-2-logo.png" group-title="Movies",Epix 2 
 https://edge.roku-live.top.comcast.net/out/u/epix2-east.m3u8 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vxQfhzG/Pics-Art-12-12-11-16-05.png" group-title="Music",Channel V #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=hls #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A81.0)%20Gecko%2F20100101%20Firefox%2F81.0 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0 
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vxQfhzG/Pics-Art-12-12-11-16-05.png" group-title="Music",Channel V
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jis8xic.png" group-title="USA",Hot Rock TV
+https://nrpus.bozztv.com/36bay2/gusa-hotrock/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" group-title="Music",VH1 
 http://stream.streamhubtv.xyz:8080/Iptv/xQDusVsVwA/22645 
@@ -600,5 +618,13 @@ https://nrpus.bozztv.com/36bay2/gusa-stgn/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/SAfy1us.png" group-title="",US | STIRR Movies
 https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
 
+#EXTINF:-1 tvg-name="American Kennel Club TV" tvg-id="AKCTV" group-title="USA" tvg-logo="https://i.imgur.com/5Rz2LDg.png",American Kennel Club 
+https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zkaqNkN.png" group-title="USA",HSN
+https://html5-lh.akamaihd.net/i/html5_01@182967/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5X0GYny.png" group-title="USA",HSN 2
+https://hsn2html5-lh.akamaihd.net/i/hsn2html5_01@13178/master.m3u8
 
 
