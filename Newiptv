@@ -84,7 +84,7 @@ http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/130.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Sari-Sari_alternate_Logo.PNG/revision/latest/scale-to-width-down/2000?cb=20160619031101" group-title="Local",Sari-Sari 
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/139.m3u8 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/9/9a/Cine_Mo!_3D_Logo.png/revision/latest/scale-to-width-down/2000?cb=20210301131124" group-title="Movies",Cine Mo! #EXTVLCOPT:http-user-agent=stream 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/9/9a/Cine_Mo!_3D_Logo.png/revision/latest/scale-to-width-down/2000?cb=20210301131124" group-title="Movies",Cine Mo!
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/3254f236ad3e872.m3u8 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/9/9a/Cine_Mo!_3D_Logo.png/revision/latest/scale-to-width-down/2000?cb=20210301131124" group-title="Movies",Cine Mo! Philippines 
