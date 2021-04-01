@@ -115,7 +115,10 @@ http://45.32.115.103/live/livestream/index.m3u8
 https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/master.m3u8 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b0/Hillsong_Channel_Logo.png" group-title="Religious",Hillsong Channel 
-http://api.new.livestream.com/accounts/27460990/events/8266909/live.m3u8 
+http://api.new.livestream.com/accounts/27460990/events/8266909/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Circle" tvg-logo="https://i.imgur.com/ZqcNRbd.png" group-title="USA",Circle
+https://circle-samsung.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Animax_logo.svg/revision/latest/scale-to-width-down/2000?cb=20180730143228" group-title="Kids",Animax 
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/125.m3u8 
@@ -178,13 +181,19 @@ http://livedoc.cgtn.com/1000d/prog_index.m3u8
 http://rt-doc.secure.footprint.net/1101_2500Kb.m3u8 
 
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="Educational",NASA TV 
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8 
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+
+#EXTINF:-1 tvg-name="NASA TV Media" tvg-id="NASA TV Media" tvg-logo="https://i.imgur.com/LnonnQm.png" group-title="USA",NASA TV Media
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a5/Da_Vinci.svg/revision/latest/scale-to-width-down/2000?cb=20191208233628" group-title="Kids",Da Vinci
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8 
 
 #EXTINF:-1 tvg-ID="SBF.AU" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FTA/SBF_290x170.png" group-title="Lifestyle",SBS Food 
 https://sbs-live.akamaized.net/hls/live/2002829-b/channel3/geo/master_1800K.m3u8|X-Forwarded-For=52.62.247.239 
+
+#EXTINF:-1 tvg-id="" tvg-name="Chef Champion" tvg-logo="https://i.imgur.com/qj7DSnR.png" group-title="USA",Chef Champion
+https://nrpus.bozztv.com/36bay2/gusa-chefchampion/index.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/640px-TLC-Logo_2016.png" group-title="Lifestyle",TLC US 
 https://bozztv.com/teleyupp/teleup-tlc/playlist.m3u8 
@@ -201,6 +210,18 @@ https://ssc4.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_720max/chunklist_b786944.m3u8
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/TV5Monde_Style_HD.svg/revision/latest/scale-to-width-down/2000?cb=20191207000751",TV5Monde Style 
 https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/index.m3u8 
 
+#EXTINF:-1 tvg-id="" tvg-name="Clarity 4K" tvg-logo="https://i.imgur.com/A1xZDrV.png" group-title="USA",Clarity 4K
+https://d1ilhlah7f9uzc.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7LXT3zf.png" group-title="USA",ET Live
+https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Hollywire" tvg-logo="https://i.imgur.com/bT8Wnmq.png" group-title="USA",Hollywire
+https://hollywire.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-name="GSN" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/xblvty.png" group-title="USA",GSN (Game Show Network)
+http://n1.klowdtv.net/live2/gsn_720p/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://files.company.fashiontv.com/wp-content/themes/fashiontv2015/images/fashiontv_logo_356_55.png?ver=2" group-title="Lifestyle", Fashion TV 
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8 
 
@@ -212,6 +233,9 @@ http://210.210.155.35:80/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.esrevolution.com/images/Logo_ESR_2Website1.png" group-title="Gaming",ESR 
 https://esrevolution-sinclair.plex.wurl.com/manifest/playlist.m3u8 
+
+#EXTINF:-1 tvg-id="" tvg-name="ESR Esports 24x7" tvg-logo="https://i.imgur.com/N9DdtrE.png" group-title="USA",ESR Esports 24x7
+https://esr-samsung.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/PBA_Rush_logo.png/revision/latest/scale-to-width-down/2000?cb=20161115101642" group-title="Sports",PBA Rush 
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/122.m3u8 
@@ -228,6 +252,9 @@ https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jwcphJJ/nba.jpg" group-title="Sports",NBA TV Philippines 
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/120.m3u8 
 
+#EXTINF:-1 tvg-id="" tvg-name="Edge Sport " tvg-logo="https://i.imgur.com/AjRCYwR.png" group-title="USA",Edge Sport 
+https://edgesport-samsungus.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/DAwI07d.jpg" group-title="",Fox Sports 1 
 https://indotv.tech/m3u8sd/usee-foxsport1-indonesia.m3u8 
 
@@ -241,7 +268,10 @@ https://indotv.tech/m3u8sd/usee-foxsport3-indonesia.m3u8
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/114.m3u8 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/FITE_TV.svg/1200px-FITE_TV.svg.png" group-title="Sports",Fite 
-https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8 
+https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
+
+ #EXTINF:-1 tvg-logo="https://i.imgur.com/9lYz3No.png" group-title="USA",MMA Junkie (Distro TV)
+http://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-title="Sports",Red Bull TV HD 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8 
@@ -296,6 +326,9 @@ https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRt8unVkO8p738FxQTCYNHdAFj5YU9CLFT-bw&usqp=CAU" group-title="News",Fox News Channel 
 http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8 
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/hc5a1YP.png" group-title="USA",FOX News Now
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tv.fox.sports.news" tvg-name="Fox Sports News" tvg-language="English" tvg-logo="https://i.imgur.com/Kxem8ae.jpg" group-title="Sport",Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
@@ -440,6 +473,9 @@ https://edge.roku-live.top.comcast.net/out/u/epix-east.m3u8
 
 #EXTINF:-1 tvg-ID="EPIE2" tvg-name="Epix 2" tvg-logo="https://content.epix.com/logos/epix-2-logo.png" group-title="Movies",Epix 2 
 https://edge.roku-live.top.comcast.net/out/u/epix2-east.m3u8 
+
+#EXTINF:-1 tvg-id="" tvg-name="Fox Soul " tvg-logo="https://i.imgur.com/tBvEL2d.png" group-title="USA",Fox Soul 
+https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vxQfhzG/Pics-Art-12-12-11-16-05.png" group-title="Music",Channel V
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
@@ -683,6 +719,9 @@ https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Xplore" tvg-logo="https://i.imgur.com/QQuPjTD.png" group-title="USA",Xplore
 http://xlpore-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Lucky Dog" tvg-logo="https://i.imgur.com/1j4gwL3.png" group-title="USA",Lucky Dog
+http://d1gsmhzkyjhxg4.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zkaqNkN.png" group-title="USA",HSN
 https://html5-lh.akamaihd.net/i/html5_01@182967/master.m3u8
