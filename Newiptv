@@ -123,6 +123,9 @@ https://circle-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Animax_logo.svg/revision/latest/scale-to-width-down/2000?cb=20180730143228" group-title="Kids",Animax 
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/125.m3u8 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y1LQk44.png" group-title="LOKAL",Aniplus (Opt-2)
+http://45.126.83.51/dr9445/h/h02/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Disney_channel_2019.svg/revision/latest/scale-to-width-down/2000?cb=20200320115508" group-title="Kids",Disney Channel 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/514 
 
@@ -270,8 +273,11 @@ http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/114.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/FITE_TV.svg/1200px-FITE_TV.svg.png" group-title="Sports",Fite 
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 
- #EXTINF:-1 tvg-logo="https://i.imgur.com/9lYz3No.png" group-title="USA",MMA Junkie (Distro TV)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9lYz3No.png" group-title="USA",MMA Junkie (Distro TV)
 http://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/A4GMBN6.png" group-title="",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-title="Sports",Red Bull TV HD 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8 
@@ -304,7 +310,7 @@ https://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8
 http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1200px-NFL_Network_logo.svg.png" group-title="Sports",NFL Network 
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=708&deviceId=5ced7d5df64be98e07ed47b6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SnHnkYY/logo-horizontal.png" group-title="Sports", Stadium 
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_3000k.m3u8 
@@ -429,10 +435,10 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 #EXTINF:-1 tvg-id="fox.movies.vn" tvg-logo="https://www.foxmoviesasia.com/images/fm.png" group-title="Movies",FOX Movies 
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8 
 
-#EXTINF:-1 tvg-id="Hbo.Asia" tvg-logo="https://i.ibb.co/xfgvmDd/HBO.png" group-title="Movies",HBO #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=hls 
+#EXTINF:-1 tvg-id="Hbo.Asia" tvg-logo="https://i.ibb.co/xfgvmDd/HBO.png" group-title="Movies",HBO
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/113.m3u8 #https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8 
 
-#EXTINF:-1 tvg-id="Hbh.Asia" tvg-logo="https://i.ibb.co/hcqXyL5/HBO-HiTS.png" group-title="Movies",HBO Hits #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=hls 
+#EXTINF:-1 tvg-id="Hbh.Asia" tvg-logo="https://i.ibb.co/hcqXyL5/HBO-HiTS.png" group-title="Movies",HBO Hits
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8 
 
 #EXTINF:-1 tvg-id="Hbf.Asia" tvg-logo="https://i.ibb.co/7rVLTHd/HBO-Family-Asia.png" group-title="Movies",HBO Family
@@ -441,10 +447,10 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 #EXTINF:-1 tvg-id="Hbs.Asia" tvg-logo="https://i.ibb.co/nPV5sNk/HBO-Signature-Asia.png" group-title="Movies",HBO Signature
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8 
 
-#EXTINF:-1 tvg-id="Red.Asia" tvg-logo="https://i.ibb.co/tqGWgHz/Png-Item-340456.png" group-title="Movies",Red by HBO #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=hls 
+#EXTINF:-1 tvg-id="Red.Asia" tvg-logo="https://i.ibb.co/tqGWgHz/Png-Item-340456.png" group-title="Movies",Red by HBO 
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8 
 
-#EXTINF:-1 tvg-id="Cin.Asia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Cinemax_%28Black_%26_Red%29.svg/revision/latest/scale-to-width-down/2000?cb=20201205115034" group-title="Movies",Cinemax #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=hls 
+#EXTINF:-1 tvg-id="Cin.Asia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Cinemax_%28Black_%26_Red%29.svg/revision/latest/scale-to-width-down/2000?cb=20201205115034" group-title="Movies",Cinemax 
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8 
 
 #EXTINF:-1 tvg-ID="HBOE" tvg-name="HBO (East)" tvg-logo="https://i.ibb.co/x6qB0ZQ/IMG-20210103-025636.png" group-title="Movies",HBO (East) 
@@ -454,7 +460,10 @@ https://edge.roku-live.top.comcast.net/out/u/hbo-east.m3u8
 https://edge.roku-live.top.comcast.net/out/u/hbo-west.m3u8 
 
 #EXTINF:-1 tvg-ID="CINE" tvg-name="Cinemax USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/500px-Cinemax_%28Yellow%29.svg.png" group-title="Movies",Cinemax (East) 
-https://edge.roku-live.top.comcast.net/out/u/cinemax-east.m3u8 #EXTINF:-1 tvg-ID="CINW" tvg-name="Cinemax (West)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/500px-Cinemax_%28Yellow%29.svg.png" group-title="Movies",Cinemax (West) https://edge.roku-live.top.comcast.net/out/u/cinemax-west.m3u8 
+https://edge.roku-live.top.comcast.net/out/u/cinemax-east.m3u8 
+
+#EXTINF:-1 tvg-ID="CINW" tvg-name="Cinemax (West)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/500px-Cinemax_%28Yellow%29.svg.png" group-title="Movies",Cinemax (West) 
+https://edge.roku-live.top.comcast.net/out/u/cinemax-west.m3u8 
 
 #EXTINF:-1 tvg-ID="SHOE" tvg-name="Showtime (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/500px-Showtime.svg.png" group-title="Movies",Showtime (East) 
 https://edge.roku-live.top.comcast.net/out/u/showtime-east.m3u8 
@@ -489,6 +498,9 @@ http://stream.streamhubtv.xyz:8080/Iptv/xQDusVsVwA/22645
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Myxphlogo.svg/revision/latest/scale-to-width-down/2000?cb=20201226043939" group-title="Music",Myx 
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/116.m3u8 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Hit Music Channel
+http://hitmusic.hu/hitmusic.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png" group-title="Music",MTV Biggest Pop 
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8 
 
@@ -500,6 +512,9 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png" group-title="Music",Yo! MTV 
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS04/master.m3u8 
+
+#EXTINF:-1 tvg-id="StingrayRockAlternativeSTIRR.us" tvg-name="Stingray Rock Alternative (STIRR)" tvg-country="US" tvg-language="English" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/ff902b0a-f978-495d-8b37-171eb5fee8a4-small3x1_STIRR_Logo_0720_Alternative_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="Music",Stingray Rock Alternative (STIRR)
+https://ott-linear-channels.stingray.com/hls/stirr/102.m3u8
 
 #EXTINF:-1 tvg-name="New K-Movies" tvg-logo="https://i.imgur.com/dHVfGex.png" group-title="USA",New K-Movies 
 https://newidco-newmovies-1.samsung.wurl.com/manifest/playlist.m3u8
@@ -575,15 +590,6 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 
 #EXTINF:-1,NBA-14 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1165
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Hit Music Channel
-http://hitmusic.hu/hitmusic.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y1LQk44.png" group-title="LOKAL",Aniplus (Opt-2)
-http://45.126.83.51/dr9445/h/h02/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/A4GMBN6.png" group-title="",Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 #EXTINF:-1,IND_Ten Sports
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/223
