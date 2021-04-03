@@ -537,6 +537,12 @@ https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="Movies",Star Movies 
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/53b93bc93a361a2.m3u8 
 
+#EXTINF:-1 tvg-id="ActionHollywoodMovies.au" tvg-name="Action Hollywood Movies" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/wnlzC0w.jpg" group-title="",Action Hollywood Movies
+https://lightning-actionhollywood-samsungaustralia.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DUST.au" tvg-name="DUST" tvg-country="AU" tvg-language="AU" tvg-logo="https://i.imgur.com/pXXUmuW.jpg" group-title="",DUST
+https://dust-samsung-uk-au.samsung.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Zee_Cinema_2017.svg/revision/latest/scale-to-width-down/2000?cb=20191222192752" group-title="Movies",Zee Cinema 
 https://y5w8j4a9.ssl.hwcdn.net/cinemausa/tracks-v1a1/index.m3u8 
 
